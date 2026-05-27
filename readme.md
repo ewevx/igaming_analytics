@@ -69,28 +69,6 @@ AO algoritmo de Machine Learning segmentou com precisão a base de clientes em 4
 
 ---
 
-**Estrutura de Pastas e Como Executar** 
-**Organização do Repositório**
-
-aposta-ganha-analytics-framework/
-│
-├── data/
-│   └── processed/
-│       └── analytics_outputs.csv       # Datastore final consolidado que alimenta o BI
-│
-├── src/
-│   ├── data_generation/
-│   │   └── data_integration.ipynb      # Script de consolidação e ETL do Data Warehouse
-│   │
-│   └── machine_learning/
-│       └── train_clustering.ipynb      # Pipeline de Machine Learning e treino do K-Means
-│
-├── aposta_ganha_bi.pbix                # Arquivo do Dashboard Interativo do Power BI
-├── aposta_ganha_dw.db                  # Banco de Dados SQLite corporativo unificado
-└── README.md                           # Documentação e Visão Geral do Framework
-
----
-
 # Passos para Execução
 
 Configuração do Ambiente: Instale as dependências analíticas fundamentais do projeto:
