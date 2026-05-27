@@ -14,14 +14,7 @@ Este projeto desenvolve um **Framework de Analytics ponta a ponta** customizado 
 
 ---
 
-## Arquitetura e Pipeline de Dados
-
-```mermaid
-graph LR
-    A[(aposta_ganha_dw.db)] -->|SQL Queries| B(train_clustering.ipynb)
-    B -->|K-Means IA| C(tabela_final_modelada)
-    C -->|Data Integration| D(analytics_outputs.csv)
-    D -->|Live Query| E[Power BI Dashboard]
+--- 
 
 ## Data Warehouse (SQLite): Armazenamento estruturado e centralizado do histórico de comportamento transacional do banco corporativo aposta_ganha_dw.db.
 
