@@ -32,6 +32,8 @@ Este projeto desenvolve um **Framework de Analytics ponta a ponta** customizado 
 
 O painel foi projetado sob os conceitos de UX/UI analíticos, garantindo que o time de compliance e a diretoria identifiques riscos operacionais e anomalias de forma instantânea.
 
+<img width="1316" height="734" alt="Gravando 2026-05-28 100431 (1)" src="https://github.com/user-attachments/assets/e54b0077-cdc2-4bf9-81da-4a5b0a37ade8" />
+
 ---
 
 ## KPIs de iGaming Implementados (Métricas DAX) 
@@ -67,8 +69,6 @@ AO algoritmo de Machine Learning segmentou com precisão a base de clientes em 4
 **Cluster 2 — Desengajado/Inativo:** Usuários que pararam de interagir com a plataforma, caracterizados por uma métrica de recency criticamente elevada. (Estratégia: Réguas de reativação agressivas via CRM com incentivos de bônus freebet).
 
 **Cluster 3 — VIP:** Clientes de altíssimo valor de mercado, com grande volume de aportes financeiros e saldos estáveis consolidados na plataforma. (Estratégia: Atendimento personalizado premium e encaminhamento para gerentes de contas dedicados).
-
-<img width="1316" height="734" alt="Gravando 2026-05-28 100431 (1)" src="https://github.com/user-attachments/assets/e54b0077-cdc2-4bf9-81da-4a5b0a37ade8" />
 
 ---
 
