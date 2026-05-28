@@ -1,3 +1,4 @@
+
 # iGaming Analytics Framework — Predição de Churn & Monitoramento de Risco (Aposta Ganha)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -66,6 +67,10 @@ AO algoritmo de Machine Learning segmentou com precisão a base de clientes em 4
 **Cluster 2 — Desengajado/Inativo:** Usuários que pararam de interagir com a plataforma, caracterizados por uma métrica de recency criticamente elevada. (Estratégia: Réguas de reativação agressivas via CRM com incentivos de bônus freebet).
 
 **Cluster 3 — VIP:** Clientes de altíssimo valor de mercado, com grande volume de aportes financeiros e saldos estáveis consolidados na plataforma. (Estratégia: Atendimento personalizado premium e encaminhamento para gerentes de contas dedicados).
+
+<img width="1309" height="735" alt="Captura de tela 2026-05-28 095955" src="https://github.com/user-attachments/assets/95a5c412-3242-4510-95dd-78bbba7be605" />
+
+<img width="1316" height="734" alt="Gravando 2026-05-28 100431 (1)" src="https://github.com/user-attachments/assets/e54b0077-cdc2-4bf9-81da-4a5b0a37ade8" />
 
 ---
 
