@@ -1,3 +1,4 @@
+
 # iGaming Analytics Framework — Predição de Churn & Monitoramento de Risco (Aposta Ganha)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,6 +31,8 @@ Este projeto desenvolve um **Framework de Analytics ponta a ponta** customizado 
 # O Dashboard Executivo e Sistema de Alerta Vermelho
 
 O painel foi projetado sob os conceitos de UX/UI analíticos, garantindo que o time de compliance e a diretoria identifiques riscos operacionais e anomalias de forma instantânea.
+
+<img width="1316" height="734" alt="Gravando 2026-05-28 100431 (1)" src="https://github.com/user-attachments/assets/e54b0077-cdc2-4bf9-81da-4a5b0a37ade8" />
 
 ---
 
